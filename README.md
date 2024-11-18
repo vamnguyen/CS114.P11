@@ -48,14 +48,3 @@
 | `22520880` | Nguyễn Viết Anh Minh | 22520880@gm.uit.edu.vn | [![](https://img.shields.io/badge/vamnguyen-%2324292f.svg?style=flat-square&logo=github)](https://github.com/vamnguyen) |
 
 ## <img src="https://img.icons8.com/fluency/48/000000/project.png" alt="Project Icon" width="25"/> ĐỒ ÁN MÔN HỌC
-
-<a name="doan"></a>
-
-- **Tên đồ án**: Xây dựng mô hình dự đoán giá nhà bằng Machine Learning
-- **Mô tả**: Sử dụng các thuật toán máy học như Hồi quy tuyến tính, Random Forest, và XGBoost để xây dựng mô hình dự đoán giá nhà dựa trên tập dữ liệu bao gồm các đặc điểm như diện tích, số phòng, và vị trí.
-- **Thành viên thực hiện**:
-  - Nguyễn Viết Anh Minh - 22520880@gm.uit.edu.vn
-- **Công nghệ sử dụng**:
-  - Python, Scikit-learn, XGBoost
-  - Pandas, Numpy, Matplotlib
-- **Link Github**: [Xem chi tiết dự án trên Github](https://github.com/vamnguyen/house-price-prediction)
